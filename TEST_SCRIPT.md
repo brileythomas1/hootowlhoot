@@ -1,5 +1,5 @@
-# Hoot Owl Hoot (recommended to view in a Markdown editor)
-This is my CPSC 474 final project for the game Hoot Owl Hoot. More details can be found in the video "BThomas_HootOwlHoot" on Canvas Media Library. For this project, I decided to explore different strategies surrounding the game by constructing 5 different agents to determine which are most and least effective as well as to analyze how the game's unique properties interact with the agents. Running "make" will create the 4 executables and run a small test suite.
+# Hoot Owl Hoot
+This is my final project for the game Hoot Owl Hoot. For this project, I decided to explore different strategies surrounding the game by constructing 5 different agents to determine which are most and least effective as well as to analyze how the game's unique properties interact with the agents. Running "make" will create the 4 executables and run a small test suite.
 
 Research Question: **In the game Hoot Owl Hoot, how much better can an agent utilizing backwards induction via dynamic programming perform compared to four other agents utilizing rule-based, greedy, and MCTS strategies?** 
 
